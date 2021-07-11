@@ -492,7 +492,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4cd83f87952fc7b448089314870797ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 458182425033439649, guid: c08a9ff6a691f4147b8fd9e6adbba671,
+  projectilePrefab: {fileID: 458182425033439649, guid: d9368d03682af0245a61d772415b71a5,
     type: 3}
 --- !u!1 &992285705
 GameObject:
@@ -634,9 +634,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animalsPrefabs:
-  - {fileID: 8185420909524624066, guid: d624ff7b3fe59094198ed721ca633237, type: 3}
-  - {fileID: 2928193134076372806, guid: c4540c8be46a45f45aa877dd78e998e5, type: 3}
-  - {fileID: 231064797767176871, guid: a023b48fcc8abab4099cd4458a80c086, type: 3}
+  - {fileID: 8185420909524624066, guid: c6e36fdfa13c7e644b2e2fe781d418c3, type: 3}
+  - {fileID: 2928193134076372806, guid: 837bf2b9686ab3f488ad6424e8e5519c, type: 3}
+  - {fileID: 231064797767176871, guid: a9a8e112cfc0d45489db2ec16651ef9f, type: 3}
 --- !u!4 &1998116003
 Transform:
   m_ObjectHideFlags: 0
